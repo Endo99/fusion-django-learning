@@ -1,0 +1,27 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="asgiref" />
+          <option value="beautifulsoup4" />
+          <option value="Django" />
+          <option value="django-bootstrap4" />
+          <option value="django-stdimage" />
+          <option value="gunicorn" />
+          <option value="importlib-metadata" />
+          <option value="packaging" />
+          <option value="Pillow" />
+          <option value="PyMySQL" />
+          <option value="pytz" />
+          <option value="soupsieve" />
+          <option value="sqlparse" />
+          <option value="typing-extensions" />
+          <option value="whitenoise" />
+          <option value="zipp" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
