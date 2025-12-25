@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-h(g##7qizv&covi9up9639bb6=1r&f5%_s@a5b#a6@1u&7u*ri
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -78,8 +78,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'fusion',
-        'USER': 'wgtj',
-        'PASSWORD': 'Super@Junior',
+        'USER': 'wgt',
+        'PASSWORD': 'SuperJunior',
         'HOST': 'localhost',
         'PORT': '5432',
     }
